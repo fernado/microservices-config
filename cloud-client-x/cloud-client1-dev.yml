@@ -8,7 +8,7 @@ server:
     context: /cloud-client1
 
 welcome:
-  hello: hello-dev-around
+  hello: hello-dev-aroundx
 
 management:
   endpoints:
