@@ -7,5 +7,5 @@ server:
   servlet:
     context: /cloud-client1
 
-value:
-  hello: hello-666-prd
+welcome:
+  hello: hello-prod
