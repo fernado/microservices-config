@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: cloud-client1
+
+server:
+  port: 8881
+  servlet:
+    context: /cloud-client1
+
+welcome:
+  hello: hello-dev-direct
