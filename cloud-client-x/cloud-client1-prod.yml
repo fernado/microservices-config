@@ -3,7 +3,7 @@ spring:
     name: cloud-client1
 
 server:
-  port: 8881
+  port: 8882
   servlet:
     context: /cloud-client1
 
