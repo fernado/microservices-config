@@ -8,4 +8,4 @@ server:
     context: /cloud-client1
 
 welcome:
-  hello: hello-dev
+  hello: hello-dev-around
