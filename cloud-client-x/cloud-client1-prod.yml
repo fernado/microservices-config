@@ -9,3 +9,9 @@ server:
 
 welcome:
   hello: hello-prod-round
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

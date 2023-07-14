@@ -9,3 +9,9 @@ server:
 
 welcome:
   hello: hello-dev-around
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
