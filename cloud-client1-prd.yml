@@ -8,4 +8,4 @@ server:
     context: /cloud-client1
 
 value:
-  hello: hello-werw
+  hello: hello-666-prd
